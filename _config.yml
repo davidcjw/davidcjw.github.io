@@ -18,16 +18,17 @@
 # You can create any custom variable you would like, and they will be accessible
 # in the templates via {{ site.myvariable }}.
 
-title: Your awesome title
-email: your-email@example.com
+title: David's Home Page
+email: davidcjw@gmail.com
 description: >- # this means to ignore newlines until "domain:"
-  Write an awesome description for your new site here. You can edit this
-  line in _config.yml. It will appear in your document head meta (for
-  Google search results) and in your feed.xml site description.
+  Hi! My name is David and I'm from Singapore. I write about Machine Learning
+  and Software Engineering related topics. I also write about finance and
+  investments in general. My goal for 2022 is to share my learning journey
+  in the cryptocurrency space :)
 # domain: davidcjw.github.io
 # url: https://davidcjw.github.io # the base hostname & protocol for your site, e.g. http://example.com
-twitter_username: jekyllrb
-github_username:  jekyll
+twitter_username: dayweeed
+github_username:  davidcjw
 
 # Build settings
 theme: minima
