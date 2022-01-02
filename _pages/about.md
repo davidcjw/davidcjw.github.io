@@ -12,8 +12,6 @@ comments: true
 I'm an engineer by day, writer and investor by night. Happy to discuss
 anything productivity, finance, investments, crypto or engineering. :)</p>
 
-
-
 <h4>Questions?</h4>
 
 <p>Drop it in the comment section below or email me <a href="davidcjw@gmail.com">here</a>!</p>
