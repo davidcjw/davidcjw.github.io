@@ -6,7 +6,7 @@ categories: [ career ]
 tags: [general]
 image: https://miro.medium.com/max/4840/0*zd8ohF3R8VNtiOKx
 description: "How I got into AI"
-featured: true
+featured: false
 hidden: false
 ---
 
