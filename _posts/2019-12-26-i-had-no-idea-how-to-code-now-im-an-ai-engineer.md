@@ -7,7 +7,7 @@ tags: [general]
 image: https://miro.medium.com/max/4840/0*zd8ohF3R8VNtiOKx
 description: "How I got into AI"
 featured: true
-hidden: true
+hidden: false
 ---
 
 Two years ago, I graduated college where I studied Economics and Finance. I was all set for a career in finance. Investment Banking and Global Markets — those were the dream jobs. 9 months before graduation, I snagged a role at an investment bank, feeling proud because it was typically hard to get a role if one hadn’t interned at that bank before.
