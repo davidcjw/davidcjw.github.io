@@ -12,9 +12,15 @@ comments: true
 I'm an engineer by day, writer and investor by night. Happy to discuss
 anything productivity, finance, investments, crypto or engineering. :)</p>
 
+<p>I write on <a href="https://davidcjw.medium.com">Medium</a> regarding mostly
+Machine Learning and Engineering related content. I aim to write more on this site
+regarding finance and investment related content. Do check out my Patreon if you wish
+to support me and <a href="https://github.us20.list-manage.com/subscribe?u=33f00d5ed4ddfd9c97df20503&id=5bfc7bf7f6">subscribe</a> to my newsletter too.</p>
+
+
 <h4>Questions?</h4>
 
-<p>Drop it in the comment section below or email me <a href="davidcjw@gmail.com">here</a>!</p>
+<p>Drop it in the comment section below or email me <a href="mailto:davidcjw@gmail.com">here</a>!</p>
 
 </div>
 
@@ -25,7 +31,7 @@ anything productivity, finance, investments, crypto or engineering. :)</p>
 
 <p>Thank you for your support! Your donation helps me to maintain and improve the content I'm writing.</p>
 
-<a target="_blank" href="https://www.wowthemes.net/donate/" class="btn btn-danger">Buy me a coffee</a> 
+<a target="_blank" href="https://www.patreon.com/davidcjw" class="btn btn-danger">Patreon</a> 
 
 </div>
 </div>
