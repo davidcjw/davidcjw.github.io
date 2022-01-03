@@ -9,6 +9,8 @@ disqus: 'davidcjw-github-io'
 mailchimp-list: 'https://github.us20.list-manage.com/subscribe?u=33f00d5ed4ddfd9c97df20503&id=5bfc7bf7f6'
 include: ["_pages"]
 permalink: /:title/
+domain: davidcjw.github.io
+url: https://davidcjw.github.io
 baseurl: ""
 
 # Authors
