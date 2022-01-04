@@ -31,7 +31,7 @@ to support me and <a href="https://github.us20.list-manage.com/subscribe?u=33f00
 
 <p>Thank you for your support! Your donation helps me to maintain and improve the content I'm writing.</p>
 
-<a target="_blank" href="https://www.buymeacoffee.com/davidcjw" class="btn btn-danger">Patreon</a> 
+<a target="_blank" href="https://www.buymeacoffee.com/davidcjw" class="btn btn-danger">Buy me a coffee!</a> 
 
 </div>
 </div>
