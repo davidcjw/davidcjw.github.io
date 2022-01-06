@@ -10,8 +10,6 @@ featured: false
 hidden: false
 ---
 
-(*Originally posted [here](https://towardsdatascience.com/i-had-no-idea-how-to-write-code-two-years-ago-now-im-an-ai-engineer-13c530ab8227)*)
-
 Two years ago, I graduated college where I studied Economics and Finance. I was all set for a career in finance. Investment Banking and Global Markets — those were the dream jobs. 9 months before graduation, I snagged a role at an investment bank, feeling proud because it was typically hard to get a role if one hadn’t interned at that bank before.
 
 Months into the job, I picked up some *Excel VBA* and learnt how to use *Tableau*, *Power BI* and *UiPath* (a Robotics Process Automation software). I realized I was more interested in picking up these tools and learning to code rather than learning about banking products. Banking products that once intrigued me due to their complexity, is now seen merely as a way for banks to make profits off clients.
@@ -90,3 +88,5 @@ Two years later, I landed a role to train as an AI Engineer. To me, it is a grea
 At the end of the day, a career is a marathon, not a sprint. Do what you love, because you will be spending a huge proportion of your life working.
 
 If you’re feeling lost, remember what Elsa said and “do the next right thing”.
+
+(*Originally posted [here](https://towardsdatascience.com/i-had-no-idea-how-to-write-code-two-years-ago-now-im-an-ai-engineer-13c530ab8227)*)

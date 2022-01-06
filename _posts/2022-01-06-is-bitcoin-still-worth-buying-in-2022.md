@@ -9,8 +9,7 @@ hidden: true
 toc: false
 ---
 
-Bitcoin has had a meteoric rise 🚀.
-
+Bitcoin has had a meteoric rise 🚀.<br><br>
 In 2021, bitcoin gained 63%.<br>
 In 2020, bitcoin gained a whopping 300%!<br>
 In 2019, bitcoin gained 96%.<br>
