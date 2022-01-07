@@ -26,9 +26,10 @@ In 2021, I improved a lot in terms of my main programming language (Python) and 
 In 2022, I aim to explore the world of cryptocurrencies and learn more DevOps tools to boost my skillset. That being said, I'll need to find a use case for any of the technologies that I choose to learn. In summary, here's what I'm planning to learn in 2022:
 - Smart Contracts ([Rust](https://www.rust-lang.org/) / [Solidity](https://docs.soliditylang.org/en/v0.8.11/))
 - [Google Kubernetes Engine](https://cloud.google.com/kubernetes-engine)
-- [Terraform](https://www.terraform.io/)
+- [Terraform](https://www.terraform.io/) + [Ansible](https://www.ansible.com/)
 - [ELK](https://www.elastic.co/)
 - [Kafka](https://kafka.apache.org/)
+- [Jenkins](https://www.jenkins.io/)
 
 ## Closing Words
 
