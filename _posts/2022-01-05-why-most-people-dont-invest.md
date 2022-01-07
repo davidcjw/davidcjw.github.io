@@ -4,8 +4,8 @@ title:  "The Real Reason Why Most People Don't Invest"
 author: david
 categories: [ general, investing ]
 image: https://images.unsplash.com/photo-1620228885847-9eab2a1adddc?ixlib=rb-1.2.1&ixid=MnwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8&auto=format&fit=crop&w=3346&q=80
-featured: true
-hidden: true
+featured: false
+hidden: false
 toc: false
 ---
 
