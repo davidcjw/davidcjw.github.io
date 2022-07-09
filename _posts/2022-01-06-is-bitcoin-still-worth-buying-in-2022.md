@@ -4,8 +4,8 @@ title:  "Is Bitcoin Still Worth Buying In 2022"
 author: david
 categories: [ bitcoin, cryptocurrency, investing ]
 image: https://images.unsplash.com/photo-1623139185094-5d4ccc6aa754?ixlib=rb-1.2.1&ixid=MnwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8&auto=format&fit=crop&w=3272&q=80
-featured: true
-hidden: true
+featured: false
+hidden: false
 toc: false
 ---
 
