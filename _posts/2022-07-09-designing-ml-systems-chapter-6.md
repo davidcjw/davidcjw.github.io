@@ -8,6 +8,7 @@ image: https://images.unsplash.com/photo-1511376777868-611b54f68947?ixlib=rb-1.2
 description: "Summary of Chapter 6: Model Development and Offline Evaluation"
 featured: true
 hidden: true
+toc: true
 ---
 
 ## Chapter 6: Model Development and Offline Evaluation
@@ -93,7 +94,5 @@ In theory it can be endless -> a learned optimizer can be used to train another 
 
 EfficientNet developed by Google's AutoML team surpassed the SOTA accuracy with 10x efficiency.
 
----
+### Offline Evaluation
 
-## References
-- [Link Title](Link)
