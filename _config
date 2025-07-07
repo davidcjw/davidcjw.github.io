@@ -1,0 +1,17 @@
+# Site
+name: "David"
+title: "David"
+description: "Machine Learning, Engineering, Crypto, Investments"
+favicon: "app/favicon.ico"
+include: ["_pages"]
+permalink: /:title/
+domain: davidcjw.github.io
+url: https://davidcjw.github.io
+baseurl: ""
+
+# Authors
+authors:
+  david:
+    name: David
+    display_name: David
+    description: "Software Engineer"
